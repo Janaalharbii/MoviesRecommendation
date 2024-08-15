@@ -2,3 +2,5 @@ flask
 Gunicorn
 joblib
 pandas
+opencv-python
+
